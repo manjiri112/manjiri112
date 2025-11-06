@@ -11,10 +11,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 <p align="center">
-  <a href="https://preview--manjiri-portfolio-glow.lovable.app/" target="_blank">
-    <img src="[A_digital_graphic_design_banner_features_Manjiri_M.png](https://github.com/manjiri112/ManjiriMD/blob/main/ChatGPT%20Image%20Nov%206%2C%202025%2C%2007_18_39%20PM.png)" alt="Manjiri M D Portfolio Banner" width="900"/>
-  </a>
+  🌐 <a href="https://preview--manjiri-portfolio-glow.lovable.app/" target="_blank">Visit My Portfolio</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
