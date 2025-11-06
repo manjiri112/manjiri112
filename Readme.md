@@ -40,5 +40,3 @@
   </a>
 </p>
 ---
-### About my MCA journey:
-I am currently pursuing a Master of Computer Applications degree, which covers key areas such as programming (C, C++, Java, Python), data structures, database management systems, web development, software engineering, and emerging technologies like cloud computing and cybersecurity. This rigorous curriculum is equipping me with both theoretical knowledge and practical skills relevant for software development and IT careers[1][3].
