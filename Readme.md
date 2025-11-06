@@ -12,7 +12,7 @@
   </a>
 <p align="center">
   <a href="https://preview--manjiri-portfolio-glow.lovable.app/" target="_blank">
-    <img src="A_digital_graphic_design_banner_features_Manjiri_M.png" alt="Manjiri M D Portfolio Banner" width="900"/>
+    <img src="[A_digital_graphic_design_banner_features_Manjiri_M.png](https://github.com/manjiri112/ManjiriMD/blob/main/ChatGPT%20Image%20Nov%206%2C%202025%2C%2007_18_39%20PM.png)" alt="Manjiri M D Portfolio Banner" width="900"/>
   </a>
 </p>
 
