@@ -10,6 +10,10 @@
   <a href="https://www.linkedin.com/in/manjiri-m-d-25b49b295?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmOzVBq6EQuuUnJwy0%2FBWSg%3D%3D" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+<p align="center">
+  <a href="https://preview--manjiri-portfolio-glow.lovable.app/" target="_blank">
+    <img src="A_digital_graphic_design_banner_features_Manjiri_M.png" alt="Manjiri M D Portfolio Banner" width="900"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,8 +40,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
 </p>
-
 ---
 ### About my MCA journey:
 I am currently pursuing a Master of Computer Applications degree, which covers key areas such as programming (C, C++, Java, Python), data structures, database management systems, web development, software engineering, and emerging technologies like cloud computing and cybersecurity. This rigorous curriculum is equipping me with both theoretical knowledge and practical skills relevant for software development and IT careers[1][3].
-
