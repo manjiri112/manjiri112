@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ManjiriMD</h1>
 <h3 align="center">Frontend Developer | Web Enthusiast</h3>
 
-<p align="center">
-  <img src="[https://your-image-link.com/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creative-tim.com%2Fblog%2Feducational-tech%2Fhow-to-create-github-profile%2F&psig=AOvVaw1sVPCs-J4aoLUawnvkidz9&ust=1762584930414000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjk99i635ADFQAAAAAdAAAAABAL)" width="600" alt="Banner">
-</p>
-
 - 💡 Completed my **Master of Computer Applications (MCA)** with a strong passion for frontend development, modern web technologies, and building impactful digital experiences.  
 - 📫 How to reach me: **manjirid52@gmail.com**  
 - 🌐 Portfolio: [Visit My Portfolio](https://preview--manjiri-portfolio-glow.lovable.app/)  
