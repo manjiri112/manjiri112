@@ -3,7 +3,7 @@
 
 - 💡 Completed my **Master of Computer Applications (MCA)** with a strong passion for frontend development, modern web technologies, and building impactful digital experiences.  
 - 📫 How to reach me: **manjirid52@gmail.com**
-  
+- [portfolio](https://manjiri-md-973d9v5.gamma.site/)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/manjiri-m-d-25b49b295)
 
 <h3 align="left">Connect with me:</h3>
